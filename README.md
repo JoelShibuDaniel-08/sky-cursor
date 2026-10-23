@@ -25,7 +25,7 @@ click commands over Bluetooth to the PC.
 3. Pair the HC-05 with your computer (default PIN 1234 or 0000).
 
 ## Demo
-(Add photo or video link here)
+Photo and Video uploaded above 
 
 ## Author
 Joel Shibu Daniel
