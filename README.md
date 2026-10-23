@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/9fe4c0a6-a6f4-4833-a2f0-0107c6ad1a6e
+
+<img width="720" height="1280" alt="Image" src="https://github.com/user-attachments/assets/750bbea3-da98-49a6-aa98-24d667f3d60f" />
 # Sky Cursor: Bluetooth-Controlled Gesture Mouse
 
 A wireless mouse controlled by hand gestures in the air. Hand motion moves the
